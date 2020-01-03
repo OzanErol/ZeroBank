@@ -10,4 +10,4 @@ Feature: Account Activity page
     Then User verifies that "Zero - Account Activity" page name is displayed1
 
     Scenario: Account menu default option
-      Given User verify that default account menu option is "Savings"
+      Given User git addverify that default account menu option is "Savings"
