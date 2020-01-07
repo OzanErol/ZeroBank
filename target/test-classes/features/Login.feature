@@ -1,4 +1,4 @@
-@ZB-6789
+ @ZB-6789
 Feature: Log in
   User should only log in with valid credentials
 
